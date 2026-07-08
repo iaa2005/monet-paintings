@@ -1,7 +1,7 @@
 [
   {
     "filename": "lunch-on-the-grass_face1.jpg",
-    "source": "lunch-on-the-grass.jpg",
+    "source": "artworks/lunch-on-the-grass.jpg",
     "gender": "unknown",
     "title": "Luncheon on the Grass",
     "year": "1865",
@@ -15,7 +15,7 @@
   },
   {
     "filename": "lunch-on-the-grass_face2.jpg",
-    "source": "lunch-on-the-grass.jpg",
+    "source": "artworks/lunch-on-the-grass.jpg",
     "gender": "unknown",
     "title": "Luncheon on the Grass",
     "year": "1865",
@@ -29,7 +29,7 @@
   },
   {
     "filename": "lunch-on-the-grass_face3.jpg",
-    "source": "lunch-on-the-grass.jpg",
+    "source": "artworks/lunch-on-the-grass.jpg",
     "gender": "unknown",
     "title": "Luncheon on the Grass",
     "year": "1865",
@@ -43,7 +43,7 @@
   },
   {
     "filename": "lunch-on-the-grass_face4.jpg",
-    "source": "lunch-on-the-grass.jpg",
+    "source": "artworks/lunch-on-the-grass.jpg",
     "gender": "unknown",
     "title": "Luncheon on the Grass",
     "year": "1865",
@@ -57,7 +57,7 @@
   },
   {
     "filename": "lunch-on-the-grass_face5.jpg",
-    "source": "lunch-on-the-grass.jpg",
+    "source": "artworks/lunch-on-the-grass.jpg",
     "gender": "unknown",
     "title": "Luncheon on the Grass",
     "year": "1865",
@@ -71,7 +71,7 @@
   },
   {
     "filename": "lunch-on-the-grass-central-panel_face1.jpg",
-    "source": "lunch-on-the-grass-central-panel.jpg",
+    "source": "artworks/lunch-on-the-grass-central-panel.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass (central panel)",
     "year": "1865",
@@ -85,7 +85,7 @@
   },
   {
     "filename": "lunch-on-the-grass-central-panel_face2.jpg",
-    "source": "lunch-on-the-grass-central-panel.jpg",
+    "source": "artworks/lunch-on-the-grass-central-panel.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass (central panel)",
     "year": "1865",
@@ -99,7 +99,7 @@
   },
   {
     "filename": "lunch-on-the-grass-central-panel_face3.jpg",
-    "source": "lunch-on-the-grass-central-panel.jpg",
+    "source": "artworks/lunch-on-the-grass-central-panel.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass (central panel)",
     "year": "1865",
@@ -113,7 +113,7 @@
   },
   {
     "filename": "lunch-on-the-grass-study_face1.jpg",
-    "source": "lunch-on-the-grass-study.jpg",
+    "source": "artworks/lunch-on-the-grass-study.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass (study)",
     "year": "1865",
@@ -127,7 +127,7 @@
   },
   {
     "filename": "lunch-on-the-grass-study_face2.jpg",
-    "source": "lunch-on-the-grass-study.jpg",
+    "source": "artworks/lunch-on-the-grass-study.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass (study)",
     "year": "1865",
@@ -141,7 +141,7 @@
   },
   {
     "filename": "victor-jacquemont-holding-a-parasol_face1.jpg",
-    "source": "victor-jacquemont-holding-a-parasol.jpg",
+    "source": "artworks/victor-jacquemont-holding-a-parasol.jpg",
     "gender": "male",
     "title": "Victor Jacquemont Holding a Parasol",
     "year": "1865",
@@ -155,7 +155,7 @@
   },
   {
     "filename": "lunch-on-the-grass-1_face1.jpg",
-    "source": "lunch-on-the-grass-1.jpg",
+    "source": "artworks/lunch-on-the-grass-1.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass",
     "year": "1865",
@@ -169,7 +169,7 @@
   },
   {
     "filename": "lunch-on-the-grass-1_face2.jpg",
-    "source": "lunch-on-the-grass-1.jpg",
+    "source": "artworks/lunch-on-the-grass-1.jpg",
     "gender": "unknown",
     "title": "Lunch on the Grass",
     "year": "1865",
@@ -183,7 +183,7 @@
   },
   {
     "filename": "le-dejeuner-sur-lherbe-1866_face1.jpg",
-    "source": "le-dejeuner-sur-lherbe-1866.jpg",
+    "source": "artworks/le-dejeuner-sur-lherbe-1866.jpg",
     "gender": "unknown",
     "title": "Le Déjeuner sur l'herbe",
     "year": "1866",
@@ -197,7 +197,7 @@
   },
   {
     "filename": "le-dejeuner-sur-lherbe-1866_face2.jpg",
-    "source": "le-dejeuner-sur-lherbe-1866.jpg",
+    "source": "artworks/le-dejeuner-sur-lherbe-1866.jpg",
     "gender": "unknown",
     "title": "Le Déjeuner sur l'herbe",
     "year": "1866",
@@ -211,7 +211,7 @@
   },
   {
     "filename": "le-dejeuner-sur-lherbe-1866_face3.jpg",
-    "source": "le-dejeuner-sur-lherbe-1866.jpg",
+    "source": "artworks/le-dejeuner-sur-lherbe-1866.jpg",
     "gender": "unknown",
     "title": "Le Déjeuner sur l'herbe",
     "year": "1866",
@@ -225,7 +225,7 @@
   },
   {
     "filename": "camille-also-known-as-the-woman-in-a-green-dress_face1.jpg",
-    "source": "camille-also-known-as-the-woman-in-a-green-dress.jpg",
+    "source": "artworks/camille-also-known-as-the-woman-in-a-green-dress.jpg",
     "gender": "female",
     "title": "Camille (also known as The Woman in a Green Dress)",
     "year": "1866",
@@ -239,7 +239,7 @@
   },
   {
     "filename": "camille-with-a-small-dog_face1.jpg",
-    "source": "camille-with-a-small-dog.jpg",
+    "source": "artworks/camille-with-a-small-dog.jpg",
     "gender": "female",
     "title": "Camille with a Small Dog",
     "year": "1866",
@@ -253,7 +253,7 @@
   },
   {
     "filename": "women-in-the-garden_face1.jpg",
-    "source": "women-in-the-garden.jpg",
+    "source": "artworks/women-in-the-garden.jpg",
     "gender": "female",
     "title": "Women in the garden",
     "year": "1866",
@@ -267,7 +267,7 @@
   },
   {
     "filename": "women-in-the-garden_face2.jpg",
-    "source": "women-in-the-garden.jpg",
+    "source": "artworks/women-in-the-garden.jpg",
     "gender": "female",
     "title": "Women in the garden",
     "year": "1866",
@@ -281,7 +281,7 @@
   },
   {
     "filename": "garden-at-sainte-adresse_face1.jpg",
-    "source": "garden-at-sainte-adresse.jpg",
+    "source": "artworks/garden-at-sainte-adresse.jpg",
     "gender": "unknown",
     "title": "Garden at Sainte-Adresse",
     "year": "1867",
@@ -295,7 +295,7 @@
   },
   {
     "filename": "portrait-of-madame-gaudibert_face1.jpg",
-    "source": "portrait-of-madame-gaudibert.jpg",
+    "source": "artworks/portrait-of-madame-gaudibert.jpg",
     "gender": "female",
     "title": "Portrait of Madame Gaudibert",
     "year": "1868",
@@ -309,7 +309,7 @@
   },
   {
     "filename": "the-luncheon_face1.jpg",
-    "source": "the-luncheon.jpg",
+    "source": "artworks/the-luncheon.jpg",
     "gender": "unknown",
     "title": "The Luncheon",
     "year": "1868",
@@ -323,7 +323,7 @@
   },
   {
     "filename": "the-luncheon_face2.jpg",
-    "source": "the-luncheon.jpg",
+    "source": "artworks/the-luncheon.jpg",
     "gender": "unknown",
     "title": "The Luncheon",
     "year": "1868",
@@ -337,7 +337,7 @@
   },
   {
     "filename": "the-luncheon_face3.jpg",
-    "source": "the-luncheon.jpg",
+    "source": "artworks/the-luncheon.jpg",
     "gender": "unknown",
     "title": "The Luncheon",
     "year": "1868",
@@ -351,7 +351,7 @@
   },
   {
     "filename": "portrait-of-jean-monet-wearing-a-hat-with-a-pompom_face1.jpg",
-    "source": "portrait-of-jean-monet-wearing-a-hat-with-a-pompom.jpg",
+    "source": "artworks/portrait-of-jean-monet-wearing-a-hat-with-a-pompom.jpg",
     "gender": "male",
     "title": "Portrait of Jean Monet Wearing a Hat with a Pompom",
     "year": "1869",
@@ -365,7 +365,7 @@
   },
   {
     "filename": "the-dinner-1869_face1.jpg",
-    "source": "the-dinner-1869.jpg",
+    "source": "artworks/the-dinner-1869.jpg",
     "gender": "unknown",
     "title": "The Dinner",
     "year": "1869",
@@ -379,7 +379,7 @@
   },
   {
     "filename": "the-dinner-1869_face2.jpg",
-    "source": "the-dinner-1869.jpg",
+    "source": "artworks/the-dinner-1869.jpg",
     "gender": "unknown",
     "title": "The Dinner",
     "year": "1869",
@@ -393,7 +393,7 @@
   },
   {
     "filename": "the-dinner-1869-1_face1.jpg",
-    "source": "the-dinner-1869-1.jpg",
+    "source": "artworks/the-dinner-1869-1.jpg",
     "gender": "unknown",
     "title": "The Dinner",
     "year": "1869",
@@ -407,7 +407,7 @@
   },
   {
     "filename": "the-dinner-1869-1_face3.jpg",
-    "source": "the-dinner-1869-1.jpg",
+    "source": "artworks/the-dinner-1869-1.jpg",
     "gender": "unknown",
     "title": "The Dinner",
     "year": "1869",
@@ -421,7 +421,7 @@
   },
   {
     "filename": "the-dinner-1869-1_face5.jpg",
-    "source": "the-dinner-1869-1.jpg",
+    "source": "artworks/the-dinner-1869-1.jpg",
     "gender": "unknown",
     "title": "The Dinner",
     "year": "1869",
@@ -435,7 +435,7 @@
   },
   {
     "filename": "the-landing-state_face1.jpg",
-    "source": "the-landing-state.jpg",
+    "source": "artworks/the-landing-state.jpg",
     "gender": "unknown",
     "title": "The Landing State",
     "year": "1869",
@@ -449,7 +449,7 @@
   },
   {
     "filename": "the-landing-state_face2.jpg",
-    "source": "the-landing-state.jpg",
+    "source": "artworks/the-landing-state.jpg",
     "gender": "unknown",
     "title": "The Landing State",
     "year": "1869",
@@ -463,7 +463,7 @@
   },
   {
     "filename": "camille-on-the-beach-at-trouville_face1.jpg",
-    "source": "camille-on-the-beach-at-trouville.jpg",
+    "source": "artworks/camille-on-the-beach-at-trouville.jpg",
     "gender": "female",
     "title": "Camille on the Beach at Trouville",
     "year": "1870",
@@ -477,7 +477,7 @@
   },
   {
     "filename": "camille-on-the-beach-at-trouville_face2.jpg",
-    "source": "camille-on-the-beach-at-trouville.jpg",
+    "source": "artworks/camille-on-the-beach-at-trouville.jpg",
     "gender": "female",
     "title": "Camille on the Beach at Trouville",
     "year": "1870",
@@ -491,7 +491,7 @@
   },
   {
     "filename": "the-beach-at-trouville_face1.jpg",
-    "source": "the-beach-at-trouville.jpg",
+    "source": "artworks/the-beach-at-trouville.jpg",
     "gender": "unknown",
     "title": "The Beach at Trouville",
     "year": "1870",
@@ -505,7 +505,7 @@
   },
   {
     "filename": "the-beach-at-trouville_face2.jpg",
-    "source": "the-beach-at-trouville.jpg",
+    "source": "artworks/the-beach-at-trouville.jpg",
     "gender": "unknown",
     "title": "The Beach at Trouville",
     "year": "1870",
@@ -519,7 +519,7 @@
   },
   {
     "filename": "camille-on-the-beach-1871_face1.jpg",
-    "source": "camille-on-the-beach-1871.jpg",
+    "source": "artworks/camille-on-the-beach-1871.jpg",
     "gender": "female",
     "title": "Camille on the Beach",
     "year": "1871",
@@ -533,7 +533,7 @@
   },
   {
     "filename": "camille-sitting-on-the-beach-at-trouville-1871_face1.jpg",
-    "source": "camille-sitting-on-the-beach-at-trouville-1871.jpg",
+    "source": "artworks/camille-sitting-on-the-beach-at-trouville-1871.jpg",
     "gender": "female",
     "title": "Camille Sitting on the Beach at Trouville",
     "year": "1871",
@@ -547,7 +547,7 @@
   },
   {
     "filename": "meditation-madame-monet-sitting-on-a-sofa-1871_face1.jpg",
-    "source": "meditation-madame-monet-sitting-on-a-sofa-1871.jpg",
+    "source": "artworks/meditation-madame-monet-sitting-on-a-sofa-1871.jpg",
     "gender": "female",
     "title": "Meditation, Madame Monet Sitting on a Sofa",
     "year": "1871",
@@ -561,7 +561,7 @@
   },
   {
     "filename": "on-the-beach-at-trouville-1871_face1.jpg",
-    "source": "on-the-beach-at-trouville-1871.jpg",
+    "source": "artworks/on-the-beach-at-trouville-1871.jpg",
     "gender": "unknown",
     "title": "On The Beach At Trouville",
     "year": "1871",
@@ -575,7 +575,7 @@
   },
   {
     "filename": "on-the-beach-at-trouville-1871_face2.jpg",
-    "source": "on-the-beach-at-trouville-1871.jpg",
+    "source": "artworks/on-the-beach-at-trouville-1871.jpg",
     "gender": "unknown",
     "title": "On The Beach At Trouville",
     "year": "1871",
@@ -589,7 +589,7 @@
   },
   {
     "filename": "on-the-beach-at-trouville-1871_face3.jpg",
-    "source": "on-the-beach-at-trouville-1871.jpg",
+    "source": "artworks/on-the-beach-at-trouville-1871.jpg",
     "gender": "unknown",
     "title": "On The Beach At Trouville",
     "year": "1871",
@@ -603,7 +603,7 @@
   },
   {
     "filename": "jean-monet-on-a-mechanical-horse_face1.jpg",
-    "source": "jean-monet-on-a-mechanical-horse.jpg",
+    "source": "artworks/jean-monet-on-a-mechanical-horse.jpg",
     "gender": "male",
     "title": "Jean Monet on a Mechanical Horse",
     "year": "1872",
@@ -617,7 +617,7 @@
   },
   {
     "filename": "field-of-poppies-1873_face1.jpg",
-    "source": "field-of-poppies-1873.jpg",
+    "source": "artworks/field-of-poppies-1873.jpg",
     "gender": "unknown",
     "title": "Field of Poppies",
     "year": "1873",
@@ -631,7 +631,7 @@
   },
   {
     "filename": "field-of-poppies-1873_face2.jpg",
-    "source": "field-of-poppies-1873.jpg",
+    "source": "artworks/field-of-poppies-1873.jpg",
     "gender": "unknown",
     "title": "Field of Poppies",
     "year": "1873",
@@ -645,7 +645,7 @@
   },
   {
     "filename": "field-of-poppies-1873_face3.jpg",
-    "source": "field-of-poppies-1873.jpg",
+    "source": "artworks/field-of-poppies-1873.jpg",
     "gender": "unknown",
     "title": "Field of Poppies",
     "year": "1873",
@@ -659,7 +659,7 @@
   },
   {
     "filename": "camille-and-jean-monet-in-the-garden-at-argenteuil_face1.jpg",
-    "source": "camille-and-jean-monet-in-the-garden-at-argenteuil.jpg",
+    "source": "artworks/camille-and-jean-monet-in-the-garden-at-argenteuil.jpg",
     "gender": "female",
     "title": "Camille and Jean Monet in the Garden at Argenteuil",
     "year": "1873",
@@ -673,7 +673,7 @@
   },
   {
     "filename": "camille-monet-at-the-window-argentuile_face1.jpg",
-    "source": "camille-monet-at-the-window-argentuile.jpg",
+    "source": "artworks/camille-monet-at-the-window-argentuile.jpg",
     "gender": "female",
     "title": "Camille Monet at the Window, Argentuile",
     "year": "1873",
@@ -687,7 +687,7 @@
   },
   {
     "filename": "camille-monet-in-the-garden_face1.jpg",
-    "source": "camille-monet-in-the-garden.jpg",
+    "source": "artworks/camille-monet-in-the-garden.jpg",
     "gender": "female",
     "title": "Camille Monet in the Garden",
     "year": "1873",
@@ -701,7 +701,7 @@
   },
   {
     "filename": "camille-monet-in-the-garden_face2.jpg",
-    "source": "camille-monet-in-the-garden.jpg",
+    "source": "artworks/camille-monet-in-the-garden.jpg",
     "gender": "female",
     "title": "Camille Monet in the Garden",
     "year": "1873",
@@ -715,7 +715,7 @@
   },
   {
     "filename": "camille-monet-in-the-garden_face3.jpg",
-    "source": "camille-monet-in-the-garden.jpg",
+    "source": "artworks/camille-monet-in-the-garden.jpg",
     "gender": "female",
     "title": "Camille Monet in the Garden",
     "year": "1873",
@@ -729,7 +729,7 @@
   },
   {
     "filename": "camille-monet-on-a-garden-bench_face1.jpg",
-    "source": "camille-monet-on-a-garden-bench.jpg",
+    "source": "artworks/camille-monet-on-a-garden-bench.jpg",
     "gender": "female",
     "title": "Camille Monet on a Garden Bench",
     "year": "1873",
@@ -743,7 +743,7 @@
   },
   {
     "filename": "camille-monet-on-a-garden-bench_face3.jpg",
-    "source": "camille-monet-on-a-garden-bench.jpg",
+    "source": "artworks/camille-monet-on-a-garden-bench.jpg",
     "gender": "female",
     "title": "Camille Monet on a Garden Bench",
     "year": "1873",
@@ -757,7 +757,7 @@
   },
   {
     "filename": "promenade-near-argenteuil-1873_face1.jpg",
-    "source": "promenade-near-argenteuil-1873.jpg",
+    "source": "artworks/promenade-near-argenteuil-1873.jpg",
     "gender": "male",
     "title": "Promenade near Argenteuil",
     "year": "1873",
@@ -771,7 +771,7 @@
   },
   {
     "filename": "promenade-near-argenteuil-1873_face2.jpg",
-    "source": "promenade-near-argenteuil-1873.jpg",
+    "source": "artworks/promenade-near-argenteuil-1873.jpg",
     "gender": "male",
     "title": "Promenade near Argenteuil",
     "year": "1873",
@@ -785,7 +785,7 @@
   },
   {
     "filename": "promenade-near-argenteuil-1873_face3.jpg",
-    "source": "promenade-near-argenteuil-1873.jpg",
+    "source": "artworks/promenade-near-argenteuil-1873.jpg",
     "gender": "male",
     "title": "Promenade near Argenteuil",
     "year": "1873",
@@ -799,7 +799,7 @@
   },
   {
     "filename": "wild-poppies-near-argenteuil-1873_face1.jpg",
-    "source": "wild-poppies-near-argenteuil-1873.jpg",
+    "source": "artworks/wild-poppies-near-argenteuil-1873.jpg",
     "gender": "unknown",
     "title": "Wild Poppies, near Argenteuil",
     "year": "1873",
@@ -813,7 +813,7 @@
   },
   {
     "filename": "wild-poppies-near-argenteuil-1873_face2.jpg",
-    "source": "wild-poppies-near-argenteuil-1873.jpg",
+    "source": "artworks/wild-poppies-near-argenteuil-1873.jpg",
     "gender": "unknown",
     "title": "Wild Poppies, near Argenteuil",
     "year": "1873",
@@ -827,7 +827,7 @@
   },
   {
     "filename": "the-afternoon-meal_face1.jpg",
-    "source": "the-afternoon-meal.jpg",
+    "source": "artworks/the-afternoon-meal.jpg",
     "gender": "unknown",
     "title": "The Lunch: decorative panel",
     "year": "1874",
@@ -841,7 +841,7 @@
   },
   {
     "filename": "corner-of-the-apartment_face1.jpg",
-    "source": "corner-of-the-apartment.jpg",
+    "source": "artworks/corner-of-the-apartment.jpg",
     "gender": "male",
     "title": "Corner of the Apartment",
     "year": "1875",
@@ -855,7 +855,7 @@
   },
   {
     "filename": "madame-monet-and-child_face1.jpg",
-    "source": "madame-monet-and-child.jpg",
+    "source": "artworks/madame-monet-and-child.jpg",
     "gender": "female",
     "title": "Camille Monet and a Child in the Artist’s Garden in Argenteuil",
     "year": "1875",
@@ -869,7 +869,7 @@
   },
   {
     "filename": "madame-monet-and-child_face2.jpg",
-    "source": "madame-monet-and-child.jpg",
+    "source": "artworks/madame-monet-and-child.jpg",
     "gender": "female",
     "title": "Camille Monet and a Child in the Artist’s Garden in Argenteuil",
     "year": "1875",
@@ -883,7 +883,7 @@
   },
   {
     "filename": "the-promenade-near-argenteuil_face1.jpg",
-    "source": "the-promenade-near-argenteuil.jpg",
+    "source": "artworks/the-promenade-near-argenteuil.jpg",
     "gender": "male",
     "title": "The Promenade near Argenteuil",
     "year": "1875",
@@ -897,7 +897,7 @@
   },
   {
     "filename": "the-promenade-woman-with-a-parasol_face1.jpg",
-    "source": "the-promenade-woman-with-a-parasol.jpg",
+    "source": "artworks/the-promenade-woman-with-a-parasol.jpg",
     "gender": "female",
     "title": "The Promenade, Woman with a Parasol",
     "year": "1875",
@@ -911,7 +911,7 @@
   },
   {
     "filename": "the-promenade-woman-with-a-parasol_face2.jpg",
-    "source": "the-promenade-woman-with-a-parasol.jpg",
+    "source": "artworks/the-promenade-woman-with-a-parasol.jpg",
     "gender": "female",
     "title": "The Promenade, Woman with a Parasol",
     "year": "1875",
@@ -925,7 +925,7 @@
   },
   {
     "filename": "in-the-meadow_face1.jpg",
-    "source": "in-the-meadow.jpg",
+    "source": "artworks/in-the-meadow.jpg",
     "gender": "unknown",
     "title": "In the Meadow",
     "year": "1876",
@@ -939,7 +939,7 @@
   },
   {
     "filename": "woman-in-a-garden-1876_face1.jpg",
-    "source": "woman-in-a-garden-1876.jpg",
+    "source": "artworks/woman-in-a-garden-1876.jpg",
     "gender": "female",
     "title": "Woman in a Garden",
     "year": "1876",
@@ -953,7 +953,7 @@
   },
   {
     "filename": "portrait-of-germaine-hoschede-with-a-doll-1877_face1.jpg",
-    "source": "portrait-of-germaine-hoschede-with-a-doll-1877.jpg",
+    "source": "artworks/portrait-of-germaine-hoschede-with-a-doll-1877.jpg",
     "gender": "female",
     "title": "Portrait of Germaine Hoschede with a Doll",
     "year": "1877",
@@ -967,7 +967,7 @@
   },
   {
     "filename": "jean-pierre-hoschede-called-bebe-jean_face1.jpg",
-    "source": "jean-pierre-hoschede-called-bebe-jean.jpg",
+    "source": "artworks/jean-pierre-hoschede-called-bebe-jean.jpg",
     "gender": "male",
     "title": "Jean-Pierre Hoschede, called 'Bebe Jean'",
     "year": "1878",
@@ -981,7 +981,7 @@
   },
   {
     "filename": "leon-peltier_face1.jpg",
-    "source": "leon-peltier.jpg",
+    "source": "artworks/leon-peltier.jpg",
     "gender": "male",
     "title": "Leon Peltier",
     "year": "1879",
@@ -995,7 +995,7 @@
   },
   {
     "filename": "andre-lauvray_face1.jpg",
-    "source": "andre-lauvray.jpg",
+    "source": "artworks/andre-lauvray.jpg",
     "gender": "male",
     "title": "Andre Lauvray",
     "year": "1880",
@@ -1009,7 +1009,7 @@
   },
   {
     "filename": "blanche-hoschede_face1.jpg",
-    "source": "blanche-hoschede.jpg",
+    "source": "artworks/blanche-hoschede.jpg",
     "gender": "female",
     "title": "Blanche Hoschede",
     "year": "1880",
@@ -1023,7 +1023,7 @@
   },
   {
     "filename": "portrait-of-jean-monet_face1.jpg",
-    "source": "portrait-of-jean-monet.jpg",
+    "source": "artworks/portrait-of-jean-monet.jpg",
     "gender": "male",
     "title": "Portrait of Jean Monet",
     "year": "1880",
@@ -1037,7 +1037,7 @@
   },
   {
     "filename": "portrait-of-jeanne-serveau_face1.jpg",
-    "source": "portrait-of-jeanne-serveau.jpg",
+    "source": "artworks/portrait-of-jeanne-serveau.jpg",
     "gender": "female",
     "title": "Portrait of Jeanne Serveau",
     "year": "1880",
@@ -1051,7 +1051,7 @@
   },
   {
     "filename": "portrait-of-michael-with-hat-and-pom-pom_face1.jpg",
-    "source": "portrait-of-michael-with-hat-and-pom-pom.jpg",
+    "source": "artworks/portrait-of-michael-with-hat-and-pom-pom.jpg",
     "gender": "male",
     "title": "Portrait of Michael with Hat and Pom Pom",
     "year": "1880",
@@ -1065,7 +1065,7 @@
   },
   {
     "filename": "head-of-the-dog_face1.jpg",
-    "source": "head-of-the-dog.jpg",
+    "source": "artworks/head-of-the-dog.jpg",
     "gender": "unknown",
     "title": "Head of the Dog",
     "year": "1882",
@@ -1079,7 +1079,7 @@
   },
   {
     "filename": "portrait-of-eugenie-graff-madame-paul-1882_face1.jpg",
-    "source": "portrait-of-eugenie-graff-madame-paul-1882.jpg",
+    "source": "artworks/portrait-of-eugenie-graff-madame-paul-1882.jpg",
     "gender": "female",
     "title": "Portrait of Eugenie Graff (Madame Paul)",
     "year": "1882",
@@ -1093,7 +1093,7 @@
   },
   {
     "filename": "portrait-of-pere-paul_face1.jpg",
-    "source": "portrait-of-pere-paul.jpg",
+    "source": "artworks/portrait-of-pere-paul.jpg",
     "gender": "male",
     "title": "Portrait of Pere Paul",
     "year": "1882",
@@ -1107,7 +1107,7 @@
   },
   {
     "filename": "self-portrait-in-his-atelier_face1.jpg",
-    "source": "self-portrait-in-his-atelier.jpg",
+    "source": "artworks/self-portrait-in-his-atelier.jpg",
     "gender": "male",
     "title": "Self Portrait in his Atelier",
     "year": "1884",
@@ -1121,7 +1121,7 @@
   },
   {
     "filename": "portrait-of-poly-fisherman-at-kervillaouen_face1.jpg",
-    "source": "portrait-of-poly-fisherman-at-kervillaouen.jpg",
+    "source": "artworks/portrait-of-poly-fisherman-at-kervillaouen.jpg",
     "gender": "male",
     "title": "Portrait of Poly, fisherman at Kervillaouen",
     "year": "1886",
@@ -1135,7 +1135,7 @@
   },
   {
     "filename": "self-portrait-with-a-beret-1886_face1.jpg",
-    "source": "self-portrait-with-a-beret-1886.jpg",
+    "source": "artworks/self-portrait-with-a-beret-1886.jpg",
     "gender": "male",
     "title": "Self-Portrait with a Beret",
     "year": "1886",
@@ -1149,7 +1149,7 @@
   },
   {
     "filename": "in-the-norvegienne-boat-at-giverny_face1.jpg",
-    "source": "in-the-norvegienne-boat-at-giverny.jpg",
+    "source": "artworks/in-the-norvegienne-boat-at-giverny.jpg",
     "gender": "unknown",
     "title": "In the Norvegienne Boat at Giverny",
     "year": "1887",
@@ -1163,7 +1163,7 @@
   },
   {
     "filename": "in-the-norvegienne-boat-at-giverny_face2.jpg",
-    "source": "in-the-norvegienne-boat-at-giverny.jpg",
+    "source": "artworks/in-the-norvegienne-boat-at-giverny.jpg",
     "gender": "unknown",
     "title": "In the Norvegienne Boat at Giverny",
     "year": "1887",
@@ -1177,7 +1177,7 @@
   },
   {
     "filename": "in-the-woods-at-giverny-blanche-hoschede_face1.jpg",
-    "source": "in-the-woods-at-giverny-blanche-hoschede.jpg",
+    "source": "artworks/in-the-woods-at-giverny-blanche-hoschede.jpg",
     "gender": "female",
     "title": "In The Woods At Giverny Blanche Hoschede",
     "year": "1887",
@@ -1191,7 +1191,7 @@
   },
   {
     "filename": "in-the-woods-at-giverny-blanche-hoschede_face2.jpg",
-    "source": "in-the-woods-at-giverny-blanche-hoschede.jpg",
+    "source": "artworks/in-the-woods-at-giverny-blanche-hoschede.jpg",
     "gender": "female",
     "title": "In The Woods At Giverny Blanche Hoschede",
     "year": "1887",
@@ -1205,7 +1205,7 @@
   },
   {
     "filename": "the-pink-skiff-boating-on-the-ept_face1.jpg",
-    "source": "the-pink-skiff-boating-on-the-ept.jpg",
+    "source": "artworks/the-pink-skiff-boating-on-the-ept.jpg",
     "gender": "unknown",
     "title": "The Pink Skiff, Boating on the Ept",
     "year": "1887",
@@ -1219,7 +1219,7 @@
   },
   {
     "filename": "the-stroller-suzanne-hoschede_face1.jpg",
-    "source": "the-stroller-suzanne-hoschede.jpg",
+    "source": "artworks/the-stroller-suzanne-hoschede.jpg",
     "gender": "female",
     "title": "The Stroller (Suzanne Hoschede)",
     "year": "1887",
@@ -1233,7 +1233,7 @@
   },
   {
     "filename": "young-girls-in-a-row-boat_face1.jpg",
-    "source": "young-girls-in-a-row-boat.jpg",
+    "source": "artworks/young-girls-in-a-row-boat.jpg",
     "gender": "female",
     "title": "Young Girls in a Row Boat",
     "year": "1887",
@@ -1247,7 +1247,7 @@
   },
   {
     "filename": "young-girls-in-a-row-boat_face2.jpg",
-    "source": "young-girls-in-a-row-boat.jpg",
+    "source": "artworks/young-girls-in-a-row-boat.jpg",
     "gender": "female",
     "title": "Young Girls in a Row Boat",
     "year": "1887",
@@ -1261,7 +1261,7 @@
   },
   {
     "filename": "at-the-meadow-vetheuil-1888_face1.jpg",
-    "source": "at-the-meadow-vetheuil-1888.jpg",
+    "source": "artworks/at-the-meadow-vetheuil-1888.jpg",
     "gender": "unknown",
     "title": "At the Meadow, Vetheuil",
     "year": "1888",
@@ -1275,7 +1275,7 @@
   },
   {
     "filename": "landscape-at-giverny_face1.jpg",
-    "source": "landscape-at-giverny.jpg",
+    "source": "artworks/landscape-at-giverny.jpg",
     "gender": "unknown",
     "title": "Landscape at Giverny",
     "year": "1888",
@@ -1289,7 +1289,7 @@
   },
   {
     "filename": "landscape-at-giverny_face2.jpg",
-    "source": "landscape-at-giverny.jpg",
+    "source": "artworks/landscape-at-giverny.jpg",
     "gender": "unknown",
     "title": "Landscape at Giverny",
     "year": "1888",
@@ -1303,7 +1303,7 @@
   },
   {
     "filename": "portrait-of-suzanne-hoschede-with-sunflowers_face1.jpg",
-    "source": "portrait-of-suzanne-hoschede-with-sunflowers.jpg",
+    "source": "artworks/portrait-of-suzanne-hoschede-with-sunflowers.jpg",
     "gender": "female",
     "title": "Portrait of Suzanne Hoschede with Sunflowers",
     "year": "1890",
@@ -1317,7 +1317,7 @@
   },
   {
     "filename": "the-pink-skiff_face1.jpg",
-    "source": "the-pink-skiff.jpg",
+    "source": "artworks/the-pink-skiff.jpg",
     "gender": "unknown",
     "title": "The Pink Skiff",
     "year": "1890",

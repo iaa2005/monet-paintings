@@ -47,7 +47,7 @@ def main():
 
     for i, p in enumerate(paintings):
         fname = p["filename"]
-        fpath = os.path.join(DIR, fname)
+        fpath = os.path.join(DIR, "artworks", fname)
         if not os.path.exists(fpath):
             continue
         img = cv2.imread(fpath)
